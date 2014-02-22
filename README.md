@@ -7,9 +7,9 @@ It is written in C++ and using QT development
 + Python
 + Ruby
 + Lisp
-1. Python
-2. Ruby
-3. Lisp
+1.  Python
+2.  Ruby
+3.  Lisp
 
 ### Requirments
 + 编写一个程序，实现餐厅桌号预订系统。
