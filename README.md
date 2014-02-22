@@ -43,6 +43,8 @@ see more details in Design.doc
 
 
 ### UI
-![image](https://github.com/liveangel-js/RestaurantOrderSystem/UI1.jpg)
-![image](https://github.com/liveangel-js/RestaurantOrderSystem/UI2.jpg)
+####Customer Interface
+![image](https://github.com/liveangel-js/raw/master/RestaurantOrderSystem/UI1.jpg)
+####Manger Interface
+![image](https://github.com/liveangel-js/raw/master/RestaurantOrderSystem/UI2.jpg)
 
