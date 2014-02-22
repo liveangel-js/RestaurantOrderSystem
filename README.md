@@ -4,6 +4,7 @@
 It is the homework of C++ Programming in Nanjing University Software Institute(南京大学软件学院C++作业)
 It is written in C++ and using QT development
 
+
 ### Requirments
 + 编写一个程序，实现餐厅桌号预订系统。
 + 基本功能：
@@ -14,7 +15,8 @@ It is written in C++ and using QT development
           5. 不同类型餐位都有自己的一个等待列，为客人生成的号码互不影响；
           6. 支持查询指定号码所在的餐位；
           7. 实现日志功能（记录每天所有餐位的使用状况，收入）；
-          8．客人可以动态查看当前餐位使用情况（每种餐位当前排到多少号等）
+          8. 客人可以动态查看当前餐位使用情况（每种餐位当前排到多少号等）
+ 
 
 
 + 要求：   
@@ -22,8 +24,7 @@ It is written in C++ and using QT development
          2. 程序结构良好，有图形界面；
          3. 建议分两种角色：系统普通用户（客人），系统管理员（餐厅管理员）；
          4. 保证数据的持久性（例如采用稳健或者数据库方式实现）；
-         5. 编程环境为vs2005/vs2008/vs2010;
+         5. 编程环境为vs2005/vs2008/vs2010/QT;
          6. 基本功能必须保证，鼓励同学自由发挥；
          7. 简单的说明文档（设计思路，模块定义）
-
-提示： 参照辛香汇的排队叫号系统。
++ 提示： 参照辛香汇的排队叫号系统。
