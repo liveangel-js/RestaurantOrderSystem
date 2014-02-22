@@ -35,3 +35,14 @@ It is written in C++ and using QT development
          6. 基本功能必须保证，鼓励同学自由发挥；
          7. 简单的说明文档（设计思路，模块定义）
 + 提示： 参照辛香汇的排队叫号系统。
+
+
+### Run
+main is in "mainlogic.cpp"
+see more details in Design.doc
+
+
+### UI
+![image](https://github.com/liveangel-js/RestaurantOrderSystem/UI1.jpg)
+![image](https://github.com/liveangel-js/RestaurantOrderSystem/UI2.jpg)
+
